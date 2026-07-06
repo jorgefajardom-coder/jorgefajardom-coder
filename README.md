@@ -54,6 +54,7 @@ Soy **Ingeniero Mecatrónico** apasionado por la Gestión de Producto, la Robót
 ### Product & Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![ProjectLibre](https://img.shields.io/badge/ProjectLibre-009688?style=for-the-badge)
 
 `Agile` `Scrum` `Kanban`
 
