@@ -1,74 +1,76 @@
-# Hi there! 👋 I'm Jorge Andrés Fajardo Mora
+<div align="center">
 
-### Product Manager | Technical Project Manager | Mechatronics Engineer | Automation & Robotics Engineer | Industrial AI
+# 👋 Hi, I'm Jorge Andrés Fajardo Mora
 
-Welcome to my GitHub!
+### Product Manager • Technical Project Manager • Mechatronics Engineer
 
-I'm a Mechatronics Engineer passionate about building products that connect engineering, software, automation, robotics, and artificial intelligence. My experience combines technical expertise with product thinking to transform complex challenges into scalable, user-centered solutions.
+### Automation • Robotics • Industrial AI • Manufacturing Technology
 
-I enjoy working at the intersection of Product Management, Industrial AI, Manufacturing Technology, Robotics, Embedded Systems, and Software Development, creating products that deliver measurable business value while solving real-world engineering problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Product+Manager;Technical+Project+Manager;Mechatronics+Engineer;Automation+%26+Robotics+Engineer;Industrial+AI;Manufacturing+Technology;Always+Learning+New+Technologies" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/jorge-andrés-fajardo-mora-486912267">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/jorgefajardom-coder">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=jorgefajardom-coder&style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 🎯 Product Manager with a strong engineering background.
-- 🚀 Experienced in Technical Product Management and Project Management.
-- 🤖 Passionate about Robotics, Industrial Automation, and Artificial Intelligence.
-- 🏭 Interested in Smart Manufacturing, Industry 4.0, and Digital Transformation.
-- ⚙️ Mechatronics Engineer focused on automation and embedded systems.
-- 💻 Software developer with experience in engineering applications.
-- 📊 Enthusiastic about data-driven decision making and process optimization.
-- 📚 Continuous learner exploring AI, Product Strategy, and emerging technologies.
-- 🌎 Open to remote and international opportunities.
+I'm a **Mechatronics Engineer** passionate about creating products that combine engineering, software, robotics, industrial automation, and Artificial Intelligence.
+
+My work sits at the intersection of **Product Management**, **Technical Leadership**, and **Engineering**, where I enjoy transforming complex technical challenges into scalable products that create measurable business value.
+
+I'm particularly interested in:
+
+- 🤖 Industrial Robotics
+- 🏭 Smart Manufacturing
+- 🧠 Artificial Intelligence
+- ⚙ Industrial Automation
+- 🚀 Product Strategy
+- 📈 Process Optimization
+- 🌐 Digital Transformation
 
 ---
 
-# 🛠 Tech Stack
+# 🎯 Current Focus
 
-## Programming Languages
-
-- Python
-- C#
-- C++
-- Java
-
-## Product & Project Management
-
-- Jira
-- Obsidian
-- Agile
-- Scrum
-- Kanban
-
-## AI & Development Tools
-
-- Claude
-- Codex
-- Git
-- GitHub
-
-## Robotics & Embedded Systems
-
-- Raspberry Pi
-- Arduino
-- ESP32
-- Microcontrollers
+- Product Management
+- Technical Product Management
+- Industrial Artificial Intelligence
+- Robotics
+- Automation
+- Manufacturing Technology
+- Digital Twins
 - Embedded Systems
-- PCA9685
-- Computer Vision
+- AI-powered Products
 
-## Industrial Automation
+---
 
-- PLC Programming
-- Ladder Logic
-- CODESYS
-- OpenPLC
-- Modbus TCP
-- MQTT
-- FluidSIM
+# 💻 Tech Stack
 
-## CAD, Design & Engineering
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp"/>
+</p>
+
+## Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux"/>
+</p>
+
+## CAD & Engineering
 
 - Autodesk Fusion 360
 - Autodesk Inventor
@@ -78,88 +80,144 @@ I enjoy working at the intersection of Product Management, Industrial AI, Manufa
 - EasyEDA
 - Fritzing
 
-## Simulation & Digital Twins
+## Embedded Systems
+
+- Raspberry Pi
+- Arduino
+- ESP32
+- Microcontrollers
+- Embedded Systems
+
+## Industrial Automation
+
+- PLC Programming
+- Ladder Logic
+- CODESYS
+- OpenPLC
+- MQTT
+- Modbus TCP
+- FluidSIM
+
+## Project Management
+
+- Jira
+- Obsidian
+- Agile
+- Scrum
+- Kanban
+
+## AI Tools
+
+- ChatGPT
+- Claude
+- OpenAI Codex
+
+## Simulation
 
 - Unity
-- Industrial Simulation
-- Digital Twin Development
-
-## Operating Systems
-
-- Linux
-- Windows
-
-## Engineering Domains
-
-- Product Management
-- Technical Product Management
-- Mechatronics Engineering
-- Robotics
-- Industrial Automation
-- Industrial Artificial Intelligence
-- Manufacturing Technology
-- Embedded Systems
-- Internet of Things (IoT)
-- Smart Manufacturing
-- Process Optimization
 - Digital Twins
+- Industrial Simulation
 
 ---
 
-# 📌 Areas of Interest
+# ⚙ Engineering Expertise
+
+```text
+Product Management
+Technical Product Management
+Industrial Automation
+Robotics
+Industrial AI
+Manufacturing Technology
+Embedded Systems
+Computer Vision
+IoT
+Digital Twins
+Smart Manufacturing
+Process Optimization
+Software Development
+```
+
+---
+
+# 📂 Featured Projects
+
+## 🤖 O.R.F.E.O.
+
+**Collaborative Multi-Robot Assembly System**
+
+Simulation of an intelligent robotic production line for automated drone assembly integrating robotics, industrial automation, AI, and digital twins.
+
+**Tech**
+
+Python • Unity • PLC • CODESYS • Industrial AI
+
+---
+
+## ⚙ Industrial Automation
+
+Development of industrial automation solutions using PLCs, Raspberry Pi, Embedded Systems, MQTT, and Modbus TCP.
+
+---
+
+## 🧠 Artificial Intelligence
+
+AI-driven engineering applications focused on industrial environments, intelligent manufacturing, and automation.
+
+---
+
+## 💻 Software Engineering
+
+Engineering software developed primarily in Python for robotics, automation, embedded systems, and industrial applications.
+
+---
+
+# 📚 Currently Learning
+
+- AI Product Strategy
+- Product Discovery
+- Product Analytics
+- Large Language Models (LLMs)
+- Cloud Computing
+- Scalable Software Architecture
+
+---
+
+# 🏅 Professional Interests
 
 - Product Management
-- Technical Product Management
-- Industrial AI
+- Technical Leadership
 - Robotics
 - Automation
-- Manufacturing Technology
-- Industry 4.0
-- Smart Factories
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Embedded Systems
-- IoT
-- Software Engineering
-- Product Strategy
-- Process Optimization
-- Digital Twins
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Product Management
-- AI Product Strategy
-- Large Language Models (LLMs)
 - Industrial AI
-- Cloud Technologies
-- Software Architecture
-- Product Discovery
-- Scalable Systems Design
+- Manufacturing Technology
+- Smart Factories
+- Embedded Systems
+- Digital Twins
+- Innovation
 
 ---
 
-# 📊 GitHub Statistics
+# 📫 Let's Connect
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgefajardom-coder&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefajardom-coder&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/jorge-andrés-fajardo-mora-486912267">
+<img src="https://img.shields.io/badge/LinkedIn-Jorge%20Andrés%20Fajardo%20Mora-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-# 🤝 Let's Connect
+<a href="https://github.com/jorgefajardom-coder">
+<img src="https://img.shields.io/badge/GitHub-jorgefajardom--coder-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### LinkedIn
-
-🔗 https://www.linkedin.com/in/jorge-andrés-fajardo-mora-486912267
-
-Feel free to connect if you'd like to discuss Product Management, Robotics, Industrial AI, Automation, Manufacturing Technology, or potential collaborations.
+</div>
 
 ---
 
-# 💡 Philosophy
+<div align="center">
 
-> *"The best technology is not the most complex one—it's the one that creates meaningful value for people, businesses, and society."*
+### ⭐ Thanks for visiting my profile!
+
+*Open to collaborating on Product Management, Industrial AI, Robotics, Automation, and Manufacturing Technology.*
+
+</div>
