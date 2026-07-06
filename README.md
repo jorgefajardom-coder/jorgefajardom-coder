@@ -59,7 +59,7 @@ Soy **Ingeniero Mecatrónico** apasionado por la Gestión de Producto, la Robót
 
 ### Inteligencia Artificial
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Sistemas embebidos
@@ -69,16 +69,22 @@ Soy **Ingeniero Mecatrónico** apasionado por la Gestión de Producto, la Robót
 `Microcontroladores` `Sistemas embebidos` `Visión por computador`
 
 ### Automatización industrial
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Modbus](https://img.shields.io/badge/Modbus-444444?style=for-the-badge)
 ![PLC](https://img.shields.io/badge/PLC-007ACC?style=for-the-badge)
 
 `CODESYS` `OpenPLC` `Ladder Logic` `FluidSIM`
 
+### Protocolos y comunicación industrial
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
+`Modbus (RTU/TCP)` `OPC UA` `TCP/IP` `WebSockets`
+
 ### CAD / Diseño
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)
+![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-184575?style=for-the-badge&logo=autodeskrevit&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765A0?style=for-the-badge&logo=easyeda&logoColor=white)
 
-`Fusion 360` `Autodesk Inventor` `AutoCAD` `Autodesk Revit` `EasyEDA` `Fritzing`
+`Fusion 360` `Autodesk Inventor` `Fritzing`
 
 ### Simulación
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -89,7 +95,6 @@ Soy **Ingeniero Mecatrónico** apasionado por la Gestión de Producto, la Robót
 
 ## 📂 Proyectos destacados
 
-- 🤖 **O.R.F.E.O.** — Simulación de un sistema robótico colaborativo de ensamblaje.
 - 🏭 **Automatización Industrial** — Proyectos de control e integración con PLC.
 - 👁️ **AI & Computer Vision** — Aplicaciones de visión artificial en manufactura.
 - 🔩 **Sistemas Embebidos** — Prototipos con microcontroladores.
