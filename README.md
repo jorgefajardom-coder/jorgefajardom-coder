@@ -1,108 +1,152 @@
-<h1 align="center">Hola, soy Jorge Andrés Fajardo Mora 👋</h1>
+```markdown
+<h1 align="center">Hi, I'm Jorge Andrés Fajardo Mora 👋</h1>
 
-<h3 align="center">Product Manager • Technical Project Manager • Mechatronics Engineer</h3>
-<p align="center"><i>Automation • Robotics • Industrial AI • Manufacturing Technology</i></p>
+<h3 align="center">Technical Product Manager • Technical Project Manager • Mechatronics Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Product+Manager;Technical+Project+Manager;Mechatronics+Engineer;Automation+%26+Robotics+Engineer;Industrial+AI;Manufacturing+Technology;Always+Learning" />
+<i>Automation • Robotics • Industrial AI • Manufacturing Technology</i>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Technical+Product+Manager;Technical+Project+Manager;Mechatronics+Engineer;Automation+%26+Robotics;Industrial+Artificial+Intelligence;Manufacturing+Technology;Building+Products+that+Bridge+Software+and+Hardware" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-fajardo-mora-486912267">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://github.com/jorgefajardom-coder">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+  <a href="https://www.youtube.com/@JorgeAndrésFajardoMora">
+    <img src="https://img.shields.io/badge/YouTube-Tech_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=jorgefajardom-coder&style=for-the-badge&color=00BFFF">
 </p>
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 About Me
 
-Soy **Ingeniero Mecatrónico** apasionado por la Gestión de Producto, la Robótica, la Automatización Industrial, la Manufactura y la Inteligencia Artificial aplicada a la industria. Disfruto construyendo productos que combinan software, hardware e ingeniería para resolver problemas del mundo real.
+I'm a **Mechatronics Engineer** passionate about **Technical Product Management**, **Industrial Automation**, **Robotics**, **Manufacturing Technologies**, and **Artificial Intelligence**.
 
----
-
-## 🎯 Enfoque actual
-
-| Área | Detalle |
-|---|---|
-| 📊 Product Management | Gestión de producto técnico, roadmaps, priorización |
-| 🤖 Robótica | Sistemas robóticos colaborativos, simulación |
-| 🏭 Automatización Industrial | PLC, control, integración de sistemas |
-| 🧠 Industrial AI | Visión por computador, IA aplicada a manufactura |
-| 🔧 Sistemas Embebidos | Microcontroladores, prototipado electrónico |
-| 🌐 Digital Twins | Gemelos digitales para procesos industriales |
+I enjoy building products that bridge software, hardware, and engineering to solve real-world industrial challenges—from product strategy and roadmap planning to implementation and continuous improvement.
 
 ---
 
-## 💻 Tech Stack
+# 🎯 Current Focus
 
-### Lenguajes de programación
+| Area | Focus |
+|------|------|
+| 📦 Product Management | Product strategy, roadmaps, backlog management, prioritization |
+| 📋 Project Management | Agile delivery, Scrum, stakeholder alignment |
+| 🤖 Robotics | Collaborative robotics, robotic systems, simulation |
+| 🏭 Industrial Automation | PLCs, industrial control, system integration |
+| 🧠 Industrial AI | Computer vision, AI for manufacturing |
+| 🔧 Embedded Systems | Microcontrollers, electronics prototyping |
+| 🌐 Digital Twins | Virtual validation and industrial process simulation |
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Desarrollo y herramientas
+---
+
+## Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Product & Project Management
+---
+
+## Product & Project Management
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-`Agile` `Scrum` `Kanban`
+`Agile` • `Scrum` • `Kanban`
 
-### Inteligencia Artificial
+---
+
+## Artificial Intelligence
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Sistemas embebidos
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+`Computer Vision` • `Machine Learning` • `Industrial AI`
+
+---
+
+## Embedded Systems
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-`Microcontroladores` `Sistemas embebidos` `Visión por computador`
+`Microcontrollers` • `Embedded Systems` • `Electronics Prototyping`
 
-### Automatización industrial
+---
+
+## Industrial Automation
+
 ![PLC](https://img.shields.io/badge/PLC-007ACC?style=for-the-badge)
 
-`CODESYS` `OpenPLC` `Ladder Logic` `FluidSIM`
+`CODESYS` • `OpenPLC` • `Ladder Logic` • `FluidSIM`
 
-### Protocolos y comunicación industrial
+---
+
+## Industrial Communication
+
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
-`Modbus (RTU/TCP)` `OPC UA` `TCP/IP` `WebSockets`
+`Modbus RTU` • `Modbus TCP` • `OPC UA` • `TCP/IP` • `WebSockets`
 
-### CAD / Diseño
+---
+
+## CAD & Design
+
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white)
-![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-184575?style=for-the-badge&logo=autodeskrevit&logoColor=white)
+![Autodesk Revit](https://img.shields.io/badge/Revit-184575?style=for-the-badge&logo=autodeskrevit&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765A0?style=for-the-badge&logo=easyeda&logoColor=white)
 
-`Fusion 360` `Autodesk Inventor` `Fritzing`
+`Fusion 360` • `Autodesk Inventor` • `Fritzing`
 
-### Simulación
+---
+
+## Simulation
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-`Simulación industrial` `Digital Twins`
+`Digital Twins` • `Industrial Simulation`
 
 ---
 
-## 📂 Proyectos destacados
+# 📂 Featured Projects
 
-- 🏭 **Automatización Industrial** — Proyectos de control e integración con PLC.
-- 👁️ **AI & Computer Vision** — Aplicaciones de visión artificial en manufactura.
-- 🔩 **Sistemas Embebidos** — Prototipos con microcontroladores.
+### 🏭 Industrial Automation
+Industrial control systems, PLC programming, industrial networking, and manufacturing process integration.
+
+### 👁️ Computer Vision & Industrial AI
+Artificial intelligence and computer vision solutions for inspection, quality control, automation, and manufacturing optimization.
+
+### 🔩 Embedded Systems
+Embedded applications using microcontrollers, sensors, real-time control, and electronics prototyping.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jorgefajardom-coder&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -112,16 +156,4 @@ Soy **Ingeniero Mecatrónico** apasionado por la Gestión de Producto, la Robót
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgefajardom-coder&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🤝 Conectemos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-fajardo-mora-486912267">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/jorgefajardom-coder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+```
