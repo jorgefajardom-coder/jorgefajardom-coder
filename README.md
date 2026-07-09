@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Jorge Andrés Fajardo Mora 👋</h1>
 
 <h3 align="center">Technical Product Manager • Technical Project Manager • Mechatronics Engineer</h3>
