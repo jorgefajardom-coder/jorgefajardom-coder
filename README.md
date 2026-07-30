@@ -9,16 +9,11 @@
 <h3 align="center">Technical Product Manager · Mechatronics Engineer</h3>
 <p align="center">Automation · Robotics · Industrial AI · Manufacturing Technology</p>
 
+Mechatronics Engineer turned Technical Product Manager, working at the intersection of robotics, industrial automation, and AI. I design and ship systems that combine embedded hardware, control software, and machine learning, from PLC-driven manufacturing cells to AI-powered vision pipelines, taking ideas from concept through to deployed, production-ready systems.
+
 ---
 
 ### 💻 Tech Stack
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Development**
 
@@ -57,12 +52,10 @@ Agile • Scrum • Kanban
 
 **Industrial Automation**
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-444444?style=for-the-badge)
 ![OPC UA](https://img.shields.io/badge/OPC_UA-005A9C?style=for-the-badge)
-![PLC](https://img.shields.io/badge/PLC-007ACC?style=for-the-badge)
 
-CODESYS • OpenPLC • Ladder Logic • FluidSIM
+OpenPLC • Ladder Logic • FluidSIM
 
 **Data Science**
 
@@ -71,10 +64,7 @@ CODESYS • OpenPLC • Ladder Logic • FluidSIM
 
 **CAD / Design**
 
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C00?style=for-the-badge)
 ![Autodesk Inventor](https://img.shields.io/badge/Inventor-B31B1B?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Revit](https://img.shields.io/badge/Revit-186BBD?style=for-the-badge)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
 ![Fritzing](https://img.shields.io/badge/Fritzing-EA8C2D?style=for-the-badge)
@@ -91,44 +81,93 @@ Industrial Simulation • Digital Twins
 
 ### 📂 Featured Projects
 
-**O.R.F.E.O.** — Collaborative robotic assembly system simulation, combining industrial automation, AI/computer vision, and embedded systems
-`Unity` `C#` `Python`
+> [!TIP]
+> Click a category to expand it. Every project here combines software, hardware, and industrial engineering, built and tested in real robotics and automation contexts.
 
-**Autonomous Drone Manufacturing Cell** — Flexible manufacturing cell for drone assembly, inspection, packaging, and transport using multiple collaborative robotic arms; modular 6-DOF architecture, CODESYS (IEC 61131-3) control, full Unity simulation, computer vision, trajectory planning, and multi-robot coordination for Industry 4.0
-`Unity` `C#` `CODESYS` `Python` `PLC` `Industrial Automation`
+<details open>
+<summary><b>🤖 Robotics & Manufacturing</b></summary>
 
-**Digital Twin Manufacturing System** — Digital twin of a production line that syncs the virtual environment with physical robots for testing, monitoring, and validation before deployment; real-time communication, 3D visualization, collision detection, and process optimization
-`Unity` `Python` `C#` `Industrial Robotics`
+#### O.R.F.E.O.
+Collaborative robotic assembly system simulation. Combines industrial automation, AI/computer vision, and embedded systems.
 
-**Multi-Robot Collaborative Platform** — Distributed system where multiple robots coordinate to transport, assemble, and manipulate objects; distributed communication and task planning, scalable to multiple agents
-`Python` `C++` `Unity` `Robotics`
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**AI Vision System** — Real-time computer vision for object detection, tracking, and analysis via cameras and AI models, integrated with robots, low-latency
-`Python` `OpenCV` `MediaPipe` `TensorFlow`
+#### Autonomous Drone Manufacturing Cell
+Flexible manufacturing cell for drone assembly, inspection, packaging, and transport using multiple collaborative robotic arms. Modular 6-DOF architecture, CODESYS (IEC 61131-3) control, full Unity simulation, computer vision, trajectory planning, and multi-robot coordination for Industry 4.0.
 
-**ESP32 Remote Camera Network** — ESP32-CAM infrastructure for remote monitoring and low-latency video streaming (MJPEG over WebSockets) with remote control and AI integration
-`ESP32` `Arduino` `Python` `OpenCV`
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![CODESYS](https://img.shields.io/badge/CODESYS-444444?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-007ACC?style=flat-square)
 
-**Mobile Robot Navigation Platform** — Omnidirectional mobile robot (Mecanum wheels, IMU, QTR line sensors, ultrasonic) for autonomous navigation and line following
-`Arduino` `Python` `C++`
+#### Digital Twin Manufacturing System
+Digital twin of a production line that syncs the virtual environment with physical robots for testing, monitoring, and validation before deployment. Real-time communication, 3D visualization, collision detection, and process optimization.
 
-**Robotics Control Framework** — Modular, extensible framework for controlling multiple actuators and sensors, including synchronized control across several PCA9685 servo drivers
-`Python` `Arduino` `Embedded Systems`
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![Industrial Robotics](https://img.shields.io/badge/Industrial_Robotics-444444?style=flat-square)
 
-**Industrial IoT Monitoring Platform** — Real-time acquisition, dashboarding, and remote monitoring of industrial sensor data, integrated with PLCs
-`Python` `IoT` `PLC`
+#### Multi-Robot Collaborative Platform
+Distributed system where multiple robots coordinate to transport, assemble, and manipulate objects. Distributed communication and task planning, scalable to multiple agents.
 
-**Robotics Simulation Toolkit** — Collection of tools for simulating industrial robots, kinematics, and trajectories for virtual testing and 3D visualization before physical implementation
-`Unity` `C#`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-444444?style=flat-square)
 
-**AI Workflow Automation** — Process automation using AI agents that integrate multiple tools and services via API
-`Python` `n8n` `LLMs`
+#### Mobile Robot Navigation Platform
+Omnidirectional mobile robot with Mecanum wheels, IMU, QTR line sensors, and ultrasonic sensing, built for autonomous navigation and line following.
 
-**Engineering Design Repository** — Mechanical and electronic designs for automation and robotics projects: PCB design, CAD, 3D modeling, mechanical drawings, and electrical diagrams
-`Fusion 360` `Inventor` `EasyEDA` `Fritzing`
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Industrial Software Projects** — Collection of industrial applications for automation, monitoring, and control, including HMI interfaces and hardware integration
-`C#` `Java` `Python`
+#### Robotics Control Framework
+Modular, extensible framework for controlling multiple actuators and sensors, including synchronized control across several PCA9685 servo drivers.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-444444?style=flat-square)
+
+#### Robotics Simulation Toolkit
+Collection of tools for simulating industrial robots, kinematics, and trajectories, for virtual testing and 3D visualization before physical implementation.
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>👁️ AI & Automation</b></summary>
+
+#### AI Vision System
+Real-time computer vision for object detection, tracking, and analysis via cameras and AI models. Integrated with robots, tuned for low latency.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+#### AI Workflow Automation
+Process automation using AI agents that integrate multiple tools and services through APIs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-444444?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>📡 Embedded & IoT</b></summary>
+
+#### ESP32 Remote Camera Network
+ESP32-CAM infrastructure for remote monitoring and low-latency video streaming (MJPEG over WebSockets), with remote control and AI integration.
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+#### Industrial IoT Monitoring Platform
+Real-time acquisition, dashboarding, and remote monitoring of industrial sensor data, integrated with PLCs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-444444?style=flat-square) ![PLC](https://img.shields.io/badge/PLC-007ACC?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>🛠️ Engineering & Tools</b></summary>
+
+#### Engineering Design Repository
+Mechanical and electronic designs for automation and robotics projects: PCB design, CAD, 3D modeling, mechanical drawings, and electrical diagrams.
+
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C00?style=flat-square) ![Inventor](https://img.shields.io/badge/Inventor-B31B1B?style=flat-square) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square) ![Fritzing](https://img.shields.io/badge/Fritzing-EA8C2D?style=flat-square)
+
+#### Industrial Software Projects
+Collection of industrial applications for automation, monitoring, and control, including HMI interfaces and hardware integration.
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</details>
 
 ---
 
@@ -140,7 +179,9 @@ Industrial Simulation • Digital Twins
 <p align="center">
   <img width="49%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" />
-</p><p align="center">
+
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake.svg" />
