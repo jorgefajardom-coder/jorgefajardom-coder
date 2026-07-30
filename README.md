@@ -11,21 +11,6 @@
 
 ---
 
-### 🚀 About Me
-
-I'm a **Mechatronics Engineer** passionate about Product Management, Robotics, Industrial Automation, Manufacturing Technology and Artificial Intelligence. I enjoy building products that combine software, hardware and engineering to solve real-world problems.
-
-### 🎯 Current Focus
-
-- Product Management
-- Technical Product Management
-- Industrial AI
-- Robotics
-- Automation
-- Manufacturing Technology
-- Embedded Systems
-- Digital Twins
-
 ### 💻 Tech Stack
 
 **Programming Languages**
@@ -106,10 +91,7 @@ Industrial Simulation • Digital Twins
 
 ### 📂 Featured Projects
 
-- **O.R.F.E.O.** — Collaborative robotic assembly system simulation
-- Industrial Automation
-- AI & Computer Vision
-- Embedded Systems
+- **O.R.F.E.O.** — Collaborative robotic assembly system simulation, combining industrial automation, AI/computer vision, and embedded systems
 
 ---
 
