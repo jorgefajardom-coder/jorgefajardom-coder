@@ -196,7 +196,7 @@ Collection of industrial applications for automation, monitoring, and control, i
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@JorgeAndrésFajardoMora">
+  <a href="https://www.youtube.com/@JorgeAndr%C3%A9sFajardoMora">
     <img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=10B981" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
