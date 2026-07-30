@@ -35,14 +35,14 @@ Agile • Scrum • Kanban
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 **Automation & Robotics**
 
@@ -64,9 +64,9 @@ OpenPLC • Ladder Logic • FluidSIM
 
 **CAD / Design**
 
-![Autodesk Inventor](https://img.shields.io/badge/Inventor-B31B1B?style=for-the-badge)
-![Revit](https://img.shields.io/badge/Revit-186BBD?style=for-the-badge)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
+![Autodesk Inventor](https://img.shields.io/badge/Inventor-B31B1B?style=for-the-badge&logo=autodesk&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-186BBD?style=for-the-badge&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white)
 ![Fritzing](https://img.shields.io/badge/Fritzing-EA8C2D?style=for-the-badge)
 
 **Simulation & Digital Twins**
@@ -130,7 +130,7 @@ Collection of tools for simulating industrial robots, kinematics, and trajectori
 #### AI Vision System
 Real-time computer vision for object detection, tracking, and analysis via cameras and AI models. Integrated with robots, tuned for low latency.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 #### AI Workflow Automation
 Process automation using AI agents that integrate multiple tools and services through APIs.
@@ -160,7 +160,7 @@ Real-time acquisition, dashboarding, and remote monitoring of industrial sensor 
 #### Engineering Design Repository
 Mechanical and electronic designs for automation and robotics projects: PCB design, CAD, 3D modeling, mechanical drawings, and electrical diagrams.
 
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C00?style=flat-square) ![Inventor](https://img.shields.io/badge/Inventor-B31B1B?style=flat-square) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square) ![Fritzing](https://img.shields.io/badge/Fritzing-EA8C2D?style=flat-square)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6C00?style=flat-square&logo=autodesk&logoColor=white) ![Inventor](https://img.shields.io/badge/Inventor-B31B1B?style=flat-square&logo=autodesk&logoColor=white) ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white) ![Fritzing](https://img.shields.io/badge/Fritzing-EA8C2D?style=flat-square)
 
 #### Industrial Software Projects
 Collection of industrial applications for automation, monitoring, and control, including HMI interfaces and hardware integration.
@@ -176,11 +176,12 @@ Collection of industrial applications for automation, monitoring, and control, i
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=jorgefajardom-coder&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=8B95A7&dates=8B95A7&border=22D3EE&hide_border=false" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" />
-
-</p>
+<table align="center">
+  <tr>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" /></td>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" /></td>
+  </tr>
+</table>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake-dark.svg" />
