@@ -91,9 +91,48 @@ Industrial Simulation • Digital Twins
 
 ### 📂 Featured Projects
 
-- **O.R.F.E.O.** — Collaborative robotic assembly system simulation, combining industrial automation, AI/computer vision, and embedded systems
+**O.R.F.E.O.** — Collaborative robotic assembly system simulation, combining industrial automation, AI/computer vision, and embedded systems
+`Unity` `C#` `Python`
+
+**Autonomous Drone Manufacturing Cell** — Flexible manufacturing cell for drone assembly, inspection, packaging, and transport using multiple collaborative robotic arms; modular 6-DOF architecture, CODESYS (IEC 61131-3) control, full Unity simulation, computer vision, trajectory planning, and multi-robot coordination for Industry 4.0
+`Unity` `C#` `CODESYS` `Python` `PLC` `Industrial Automation`
+
+**Digital Twin Manufacturing System** — Digital twin of a production line that syncs the virtual environment with physical robots for testing, monitoring, and validation before deployment; real-time communication, 3D visualization, collision detection, and process optimization
+`Unity` `Python` `C#` `Industrial Robotics`
+
+**Multi-Robot Collaborative Platform** — Distributed system where multiple robots coordinate to transport, assemble, and manipulate objects; distributed communication and task planning, scalable to multiple agents
+`Python` `C++` `Unity` `Robotics`
+
+**AI Vision System** — Real-time computer vision for object detection, tracking, and analysis via cameras and AI models, integrated with robots, low-latency
+`Python` `OpenCV` `MediaPipe` `TensorFlow`
+
+**ESP32 Remote Camera Network** — ESP32-CAM infrastructure for remote monitoring and low-latency video streaming (MJPEG over WebSockets) with remote control and AI integration
+`ESP32` `Arduino` `Python` `OpenCV`
+
+**Mobile Robot Navigation Platform** — Omnidirectional mobile robot (Mecanum wheels, IMU, QTR line sensors, ultrasonic) for autonomous navigation and line following
+`Arduino` `Python` `C++`
+
+**Robotics Control Framework** — Modular, extensible framework for controlling multiple actuators and sensors, including synchronized control across several PCA9685 servo drivers
+`Python` `Arduino` `Embedded Systems`
+
+**Industrial IoT Monitoring Platform** — Real-time acquisition, dashboarding, and remote monitoring of industrial sensor data, integrated with PLCs
+`Python` `IoT` `PLC`
+
+**Robotics Simulation Toolkit** — Collection of tools for simulating industrial robots, kinematics, and trajectories for virtual testing and 3D visualization before physical implementation
+`Unity` `C#`
+
+**AI Workflow Automation** — Process automation using AI agents that integrate multiple tools and services via API
+`Python` `n8n` `LLMs`
+
+**Engineering Design Repository** — Mechanical and electronic designs for automation and robotics projects: PCB design, CAD, 3D modeling, mechanical drawings, and electrical diagrams
+`Fusion 360` `Inventor` `EasyEDA` `Fritzing`
+
+**Industrial Software Projects** — Collection of industrial applications for automation, monitoring, and control, including HMI interfaces and hardware integration
+`C#` `Java` `Python`
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=jorgefajardom-coder&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=8B95A7&dates=8B95A7&border=22D3EE&hide_border=false" alt="GitHub Streak" />
@@ -101,8 +140,7 @@ Industrial Simulation • Digital Twins
 <p align="center">
   <img width="49%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" />
-</p>
-<p align="center">
+</p><p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake.svg" />
