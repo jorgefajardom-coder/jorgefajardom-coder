@@ -189,7 +189,7 @@ Collection of industrial applications for automation, monitoring, and control, i
       <img src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&card_width=450&show_icons=true&hide_rank=true&hide=issues&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&card_width=450&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&card_width=300&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" />
     </td>
   </tr>
 </table>
