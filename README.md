@@ -6,6 +6,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <h3 align="center">Technical Product Manager · Mechatronics Engineer</h3>
 <p align="center">Automation · Robotics · Industrial AI · Manufacturing Technology</p>
 
@@ -13,7 +21,10 @@ Mechatronics Engineer turned Technical Product Manager, working at the intersect
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
+
+> [!NOTE]
+> Tools I work with regularly, not an exhaustive list of everything I have tried once.
 
 **Development**
 
@@ -79,13 +90,13 @@ Industrial Simulation • Digital Twins
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 📂 Featured Projects
+### Featured Projects
 
 > [!TIP]
 > Click a category to expand it. Every project here combines software, hardware, and industrial engineering, built and tested in real robotics and automation contexts.
 
 <details open>
-<summary><b>🤖 Robotics & Manufacturing</b></summary>
+<summary><b>Robotics & Manufacturing</b></summary>
 
 #### O.R.F.E.O.
 Collaborative robotic assembly system simulation. Combines industrial automation, AI/computer vision, and embedded systems.
@@ -125,7 +136,7 @@ Collection of tools for simulating industrial robots, kinematics, and trajectori
 </details>
 
 <details>
-<summary><b>👁️ AI & Automation</b></summary>
+<summary><b>AI & Automation</b></summary>
 
 #### AI Vision System
 Real-time computer vision for object detection, tracking, and analysis via cameras and AI models. Integrated with robots, tuned for low latency.
@@ -140,7 +151,7 @@ Process automation using AI agents that integrate multiple tools and services th
 </details>
 
 <details>
-<summary><b>📡 Embedded & IoT</b></summary>
+<summary><b>Embedded & IoT</b></summary>
 
 #### ESP32 Remote Camera Network
 ESP32-CAM infrastructure for remote monitoring and low-latency video streaming (MJPEG over WebSockets), with remote control and AI integration.
@@ -155,7 +166,7 @@ Real-time acquisition, dashboarding, and remote monitoring of industrial sensor 
 </details>
 
 <details>
-<summary><b>🛠️ Engineering & Tools</b></summary>
+<summary><b>Engineering & Tools</b></summary>
 
 #### Engineering Design Repository
 Mechanical and electronic designs for automation and robotics projects: PCB design, CAD, 3D modeling, mechanical drawings, and electrical diagrams.
@@ -171,26 +182,31 @@ Collection of industrial applications for automation, monitoring, and control, i
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Activity
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=jorgefajardom-coder&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=8B95A7&dates=8B95A7&border=22D3EE&hide_border=false" alt="GitHub Streak" />
-</p>
+> [!NOTE]
+> C# and ShaderLab lead the language breakdown because the Unity simulation and digital twin projects carry the largest codebases. Much of the automation work lives in PLC and CODESYS formats that GitHub does not count as source code.
+
 <table align="center">
   <tr>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" /></td>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" /></td>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=jorgefajardom-coder&card_width=900&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=8B95A7&dates=8B95A7&border=22D3EE&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-blond-zeta-39.vercel.app/api?username=jorgefajardom-coder&card_width=450&show_icons=true&hide_rank=true&hide=issues&bg_color=0A101F&title_color=22D3EE&icon_color=10B981&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-blond-zeta-39.vercel.app/api/top-langs/?username=jorgefajardom-coder&card_width=450&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E5E7EB&border_color=22D3EE&hide_border=false" alt="Top Languages" />
+    </td>
   </tr>
 </table>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/jorgefajardom-coder/jorgefajardom-coder/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
-### 🤝 Let's Connect
+### Let's Connect
+
+> [!TIP]
+> Open to collaboration on robotics, industrial automation, and applied AI projects. The fastest way to reach me is LinkedIn or email.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-andr%C3%A9s-fajardo-mora-486912267">
