@@ -178,9 +178,6 @@ Collection of industrial applications for automation, monitoring, and control, i
 
 ### GitHub Activity
 
-> [!NOTE]
-> C# and ShaderLab lead the language breakdown because the Unity simulation and digital twin projects carry the largest codebases. Much of the automation work lives in PLC and CODESYS formats that GitHub does not count as source code.
-
 <table align="center">
   <tr>
     <td colspan="2" align="center">
