@@ -23,6 +23,40 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=#10B981,#22D3EE&color_dots=#2d3343,#3b2f6b,#5b21b6,#7C3AED,#22D3EE
             dist/github-contribution-grid-snake.svg?color_snake=#0891B2,#10B981&color_dots=#ebedf0,#c4b5fd,#a78bfa,#7c3aed,#0891b2
 
+      # snk reserves 32px above the grid, but the snake only ever reaches ~16px
+      # up. Crop the viewBox down to whatever the animation actually uses so the
+      # image does not render with dead space on top of it in the README.
+      - name: trim unused top padding from snake svg
+        run: |
+          python3 - <<'PY'
+          import glob, re
+
+          for path in glob.glob('dist/*.svg'):
+              svg = open(path, encoding='utf-8').read()
+              tag = re.search(
+                  r'<svg viewBox="([-\d.]+) ([-\d.]+) ([\d.]+) ([\d.]+)"'
+                  r' width="([\d.]+)" height="([\d.]+)"', svg)
+              if not tag:
+                  print(f'{path}: no matching svg tag, left untouched')
+                  continue
+              x, y, w, h, width, height = (float(v) for v in tag.groups())
+
+              # highest point any animated snake segment reaches
+              tys = [float(b) for _, b in
+                     re.findall(r'translate\(([-\d.]+)px[,\s]+([-\d.]+)px\)', svg)]
+              reach = min(tys) if tys else y
+              new_y = min(reach, 0.0)
+              trim = new_y - y
+              if trim <= 0:
+                  print(f'{path}: nothing to trim')
+                  continue
+
+              new_tag = (f'<svg viewBox="{x:g} {new_y:g} {w:g} {h - trim:g}"'
+                         f' width="{width:g}" height="{height - trim:g}"')
+              open(path, 'w', encoding='utf-8').write(svg.replace(tag.group(0), new_tag, 1))
+              print(f'{path}: trimmed {trim:g}px, height {height:g} -> {height - trim:g}')
+          PY
+
       - name: push snake svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
