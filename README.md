@@ -20,9 +20,6 @@ Mechatronics Engineer turned Technical Product Manager, working at the intersect
 
 ### Tech Stack
 
-> [!NOTE]
-> Tools I work with regularly, not an exhaustive list of everything I have tried once.
-
 **Development**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
