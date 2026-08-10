@@ -92,11 +92,6 @@ Industrial Simulation • Digital Twins
 <details open>
 <summary><b>Robotics & Manufacturing</b></summary>
 
-#### O.R.F.E.O.
-Collaborative robotic assembly system simulation. Combines industrial automation, AI/computer vision, and embedded systems.
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 #### Autonomous Drone Manufacturing Cell
 Flexible manufacturing cell for drone assembly, inspection, packaging, and transport using multiple collaborative robotic arms. Modular 6-DOF architecture, CODESYS (IEC 61131-3) control, full Unity simulation, computer vision, trajectory planning, and multi-robot coordination for Industry 4.0.
 
